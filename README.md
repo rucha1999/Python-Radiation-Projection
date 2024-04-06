@@ -8,7 +8,9 @@ Displaying and comparing graph using data of Radiation Level of 22 locations and
 
 *Some crucial points to consider:
 Used  python version 3.7.3 (64-bit) , Download link -https://www.python.org/downloads/
+
 ![image](https://github.com/rucha1999/Python-Radiation-Projection/assets/76157534/1c413f4f-37d4-4753-bcca-f24df37c689c)
+
 
 The downloaded file runs and creates a python folder in C: drive named Python37. (This will not occur ,if we already have another version of python in PC)
 
@@ -17,7 +19,9 @@ To display graph used MATPLOTLIB Library and to import CSV file used PANDAS Libr
 For current downloaded python file ,its necessary to import MATPLOTLIB and PANDAS library ,procedure given below – 
 •	Open System properties and choose Advance system settings>System properties>Environment variables
 •	In system variable value search path and select it and choose edit
+
 <img width="599" alt="image" src="https://github.com/rucha1999/Python-Radiation-Projection/assets/76157534/7294f103-df70-49f1-9d27-744d1b34b545">
+
 •	In Variable value: append this –
 ;C:\Python37;C:\Python37\Scripts
 and select OK and again OK in Environment variable window to set path for command prompt.
